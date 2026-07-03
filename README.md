@@ -43,6 +43,11 @@ This project analyzes application, transaction, search, customer, local authorit
 `-- outputs/
 ```
 
+## Live Report
+
+View the interactive HTML report here:
+
+[Open the Live Report](https://foroozane.github.io/Land-Registry-Business-and-Operational-Analytics/)
 
 ## How to Run
 
